@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zeh:home|Door43 (zeh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zeh|d43-zeh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zeh/archive/master.zip|d43-zeh.zip]]
+
+**Recent Changes**
+{{changes>ns = zeh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zeh|Ethnologue data]]
+
